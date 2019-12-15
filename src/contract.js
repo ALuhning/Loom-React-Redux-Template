@@ -3,7 +3,7 @@ import {
 } from 'loom-js'
 import BN from 'bn.js'
 import Web3 from 'web3'
-import SimpleStore from './contracts/SimpleStore.json'
+import SimpleStore from './abis/SimpleStore.json'
 
 export default class Contract {
   async loadContract() {
