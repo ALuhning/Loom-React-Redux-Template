@@ -52,7 +52,8 @@
     "moment": "^2.24.0",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "chai-bignumber": "^3.0.0"
+    "chai-bignumber": "^3.0.0",
+    "@binance-chain/javascript-sdk": "^2.16.2"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
